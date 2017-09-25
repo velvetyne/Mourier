@@ -1,0 +1,431 @@
+SplineFontDB: 3.0
+FontName: Mourier
+FullName: Mourier
+FamilyName: Mourier
+Weight: Medium
+Copyright: Creatd by Eric Mourier\nDistributed by VTF\nhttp://www.velvetyne.fr\nCreated with FontForge 2.0 (http://fontforge.sf.net)
+UComments: "2011-10-27: Created." 
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+LayerCount: 2
+Layer: 0 0 "Arri+AOgA-re"  1
+Layer: 1 0 "Avant"  0
+XUID: [1021 112 18547 7468]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1319726872
+ModificationTime: 1319726998
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 50 22
+BeginChars: 256 10
+
+StartChar: A
+Encoding: 65 65 0
+Width: 1000
+VWidth: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+-6840 499.438 m 1
+ -6540 499.438 l 1
+ -6540 499.438 l 1
+ -6540 400 l 1
+ -6540 400 l 1
+ -6540 0 l 1
+ -6640 0 l 1
+ -6640 400 l 1
+ -6740 400 l 1
+ -6740 0 l 1
+ -6840 0 l 1
+ -6840 499.438 l 1
+ -6840 499.438 l 1
+-7040 699.438 m 1
+ -7040 700 l 1
+ -6340 700 l 1
+ -6340 699.438 l 1
+ -6340 0 l 1
+ -6440 0 l 1
+ -6440 600.562 l 1
+ -6940 600.562 l 1
+ -6940 0 l 1
+ -7040 0 l 1
+ -7040 699.438 l 1
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 1
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-5240 699.438 m 5
+ -5240 400 l 5
+ -5240 400 l 5
+ -5940 400 l 5
+ -5940 699.438 l 5
+ -5840 699.438 l 5
+ -5840 499.438 l 5
+ -5340 499.438 l 5
+ -5340 600.562 l 5
+ -5740 600.562 l 5
+ -5740 700 l 5
+ -5240 700 l 5
+ -5240 699.438 l 5
+-5940 1.12695 m 5
+ -5940 300 l 5
+ -5240 300 l 5
+ -5240 1.12695 l 5
+ -5240 0.5625 l 5
+ -5740 0.5625 l 5
+ -5740 100 l 5
+ -5340 100 l 5
+ -5340 200.562 l 5
+ -5840 200.562 l 5
+ -5840 1.12695 l 5
+ -5940 1.12695 l 5
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 2
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-4240 700 m 5
+ -4240 699.438 l 5
+ -4240 699.438 l 5
+ -4240 400 l 5
+ -4240 400 l 5
+ -4740 400 l 5
+ -4740 499.438 l 5
+ -4340 499.438 l 5
+ -4340 600.562 l 5
+ -4840 600.562 l 5
+ -4840 100 l 5
+ -4340 100 l 5
+ -4340 200.562 l 5
+ -4740 200.562 l 5
+ -4740 300 l 5
+ -4240 300 l 5
+ -4240 300 l 5
+ -4240 0.5625 l 5
+ -4240 0.5625 l 5
+ -4940 0.5625 l 5
+ -4940 699.438 l 5
+ -4940 700 l 5
+ -4240 700 l 5
+EndSplineSet
+EndChar
+
+StartChar: D
+Encoding: 68 68 3
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-3740 699.438 m 5
+ -3240 699.438 l 5
+ -3240 0.5625 l 5
+ -3740 0.5625 l 5
+ -3740 100 l 5
+ -3340 100 l 5
+ -3340 600 l 5
+ -3740 600 l 5
+ -3740 699.438 l 5
+-3440 200.562 m 5
+ -3840 200.562 l 5
+ -3840 0.5625 l 5
+ -3940 0.5625 l 5
+ -3940 300 l 5
+ -3540 300 l 5
+ -3540 400.562 l 5
+ -3840 400.562 l 5
+ -3840 400 l 5
+ -3940 400 l 5
+ -3940 400.562 l 5
+ -3940 699.438 l 5
+ -3840 699.438 l 5
+ -3840 500 l 5
+ -3440 500 l 5
+ -3440 200.562 l 5
+EndSplineSet
+EndChar
+
+StartChar: E
+Encoding: 69 69 4
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-2940 700 m 5
+ -2240 699.438 l 5
+ -2240 600 l 5
+ -2840 600 l 5
+ -2840 499.438 l 5
+ -2240 499.438 l 5
+ -2240 400 l 5
+ -2940 400 l 5
+ -2940 400.562 l 5
+ -2940 699.438 l 5
+ -2940 700 l 5
+-2940 299.438 m 5
+ -2840 299.438 l 5
+ -2240 299.438 l 5
+ -2240 200 l 5
+ -2840 200 l 5
+ -2840 99.4375 l 5
+ -2240 99.4375 l 5
+ -2240 0 l 5
+ -2940 0.5625 l 5
+ -2940 299.438 l 5
+EndSplineSet
+EndChar
+
+StartChar: F
+Encoding: 70 70 5
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-1940 700 m 5
+ -1240 699.438 l 5
+ -1240 600 l 5
+ -1840 600 l 5
+ -1840 100 l 5
+ -1740 100 l 5
+ -1740 500 l 5
+ -1240 500 l 5
+ -1240 400.562 l 5
+ -1640 400.562 l 5
+ -1640 0.5625 l 5
+ -1640 0.5625 l 5
+ -1940 0.5625 l 5
+ -1940 0.5625 l 5
+ -1940 699.438 l 5
+ -1940 700 l 5
+-1540 300 m 5
+ -1240 300 l 5
+ -1240 200 l 5
+ -1440 200 l 5
+ -1440 100 l 5
+ -1240 100 l 5
+ -1240 0.5625 l 5
+ -1440 0.5625 l 5
+ -1440 0.5625 l 5
+ -1540 0.5625 l 5
+ -1540 0.5625 l 5
+ -1540 299.438 l 5
+ -1540 300 l 5
+EndSplineSet
+EndChar
+
+StartChar: G
+Encoding: 71 71 6
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-140 600 m 5
+ -740 600 l 5
+ -740 100 l 5
+ -240 100 l 5
+ -240 400.562 l 5
+ -540 400.562 l 5
+ -540 300 l 5
+ -340 300 l 5
+ -340 200.562 l 5
+ -540 200.562 l 5
+ -640 200.562 l 5
+ -640 200.562 l 5
+ -640 500 l 5
+ -140 500 l 5
+ -140 499.438 l 5
+ -140 0.5625 l 5
+ -140 0 l 5
+ -840 0.5625 l 5
+ -840 0.5625 l 5
+ -840 699.438 l 5
+ -840 700 l 5
+ -140 699.438 l 5
+ -140 600 l 5
+EndSplineSet
+EndChar
+
+StartChar: H
+Encoding: 72 72 7
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+760 699.438 m 5
+ 860 699.438 l 5
+ 860 699.438 l 5
+ 860 600 l 5
+ 860 500 l 5
+ 860 400.562 l 5
+ 860 400 l 5
+ 160 400 l 5
+ 160 400.562 l 5
+ 160 500 l 5
+ 160 600 l 5
+ 160 699.438 l 5
+ 160 699.438 l 5
+ 260 699.438 l 5
+ 260 699.438 l 5
+ 460 699.438 l 5
+ 460 600 l 5
+ 260 600 l 5
+ 260 500 l 5
+ 760 500 l 5
+ 760 600 l 5
+ 560 600 l 5
+ 560 699.438 l 5
+ 760 699.438 l 5
+ 760 699.438 l 5
+160 300 m 5
+ 860 300 l 5
+ 860 0.5625 l 5
+ 860 0.5625 l 5
+ 560 0.5625 l 5
+ 560 100 l 5
+ 760 100 l 5
+ 760 200.562 l 5
+ 260 200.562 l 5
+ 260 100 l 5
+ 460 100 l 5
+ 460 0.5625 l 5
+ 160 0.5625 l 5
+ 160 0.5625 l 5
+ 160 300 l 5
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 8
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-121.126 700 m 5
+ -120.563 700 l 5
+ -120.563 200 l 5
+ -320.562 200 l 5
+ -320.562 100 l 5
+ -120.563 100 l 5
+ -120.563 0 l 5
+ -320.562 0 l 5
+ -419.999 0 l 5
+ -420 0 l 5
+ -420 300 l 5
+ -419.999 300 l 5
+ -220.563 300 l 5
+ -220.563 600 l 5
+ -320.562 600 l 5
+ -320.562 400 l 5
+ -419.999 400 l 5
+ -420 700 l 5
+ -419.999 700 l 5
+ -121.126 700 l 5
+-818.874 700.001 m 5
+ -520 700.001 l 5
+ -520 700.001 l 5
+ -520 400.001 l 5
+ -619.438 400.001 l 5
+ -619.438 600.001 l 5
+ -719.438 600.001 l 5
+ -719.438 300 l 5
+ -520 300 l 5
+ -520 200 l 5
+ -520 200 l 5
+ -520.001 0.000976562 l 5
+ -520.562 0.000976562 l 5
+ -520.562 0 l 5
+ -820 0 l 5
+ -820 100 l 5
+ -619.438 100 l 5
+ -619.438 200 l 5
+ -819.438 200 l 5
+ -819.438 700.001 l 5
+ -818.874 700.001 l 5
+EndSplineSet
+EndChar
+
+StartChar: Z
+Encoding: 90 90 9
+Width: 1000
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+879.434 700 m 5
+ 879.438 400 l 5
+ 879.434 400 l 5
+ 180 400 l 5
+ 180 500.001 l 5
+ 780 500.001 l 5
+ 780 599.999 l 5
+ 180 599.999 l 5
+ 180 700 l 5
+ 879.434 700 l 5
+180.563 300 m 5
+ 879.434 300 l 5
+ 879.434 199.999 l 5
+ 280 199.999 l 5
+ 280 100.001 l 5
+ 879.434 100.001 l 5
+ 879.434 0 l 5
+ 280 0 l 5
+ 180.563 0 l 5
+ 180 0 l 5
+ 180 300 l 5
+ 180.563 300 l 5
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
